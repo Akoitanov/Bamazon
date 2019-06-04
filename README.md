@@ -21,11 +21,11 @@ The customer interface allows the user to view the current inventory of store it
 
 1)
 
-![inventory] (images/inventory.png)
+![inventory](images/inventory.png)
 
 2)
 
-![product] (images/product.png)
+![product](images/product.png)
 
 
 
